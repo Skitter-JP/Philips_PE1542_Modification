@@ -13,8 +13,11 @@ Click [here](https://www.ebay.com/itm/114450600499?_trkparms=ispr%3D1&hash=item1
 
 I have attached the 3D models incase anyone would like to perform the same modification.
 
+The internally the transformer 3 ouputs. 2 of them are outputting around 30[Vpp], the last one is outputting 12[Vpp].
 
+The maximum operationg voltage for the replacment meters are 20 [V], this means that for 2 ouputs with 30[Vpp] some voltage drop is needed.
 
+This was acheived by implementing a Zener Voltage Regulator circuit at the rectifing capacitor
 
 Note: 
 1. The holes in the 3D model are designed for M2 screws.
