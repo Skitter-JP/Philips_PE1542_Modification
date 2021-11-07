@@ -24,3 +24,6 @@ This was acheived by implementing a [Zener Voltage Regulator](https://www.electr
 Note: 
 1. The holes in the 3D model are designed for M2 screws.
 2. No mechanical changes are required other than removing the origianal meters
+3. Zener Voltage Regulators must be place on the 20 Capacitors
+4. The Ground tracks going to the output connectors must be cut and the shunt resistor wires need to be placed inbetween this cut
+5. 
