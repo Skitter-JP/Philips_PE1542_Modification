@@ -19,7 +19,7 @@ The project contains the following folders
 2. **Images**: Pictures showcasing the final results of the modification (images might be a bit big to view via GitHub, best to download them)
 
 Note: 
-1. The holes in the 3D model are designed for M2 screws.
+1. The holes in the 3D model are designed for M2.5 screws.
 2. No mechanical changes are required other than removing the original meters.
 3. Zener Voltage Regulators must be placed on the smoothing Capacitors with 30 [Vpp] (as seen in the video).
 4. The Ground tracks going to the output connectors must be cut and the shunt resistor wires need to be placed inbetween this cut (as seen in the video).
