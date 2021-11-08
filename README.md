@@ -1,6 +1,6 @@
 # Philips PE1542 Modification
 
-This project provides you a 3D model and video with instructions on howto replace the analog meters with digital meters on a Philips PE1542 bench power supply.
+This project provides you a 3D model and video with instructions on how to replace the analog meters with digital meters on a Philips PE1542 bench power supply.
 
 The video is avaliable by clicking on the image below.
 
