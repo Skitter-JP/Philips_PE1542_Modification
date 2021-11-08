@@ -12,7 +12,7 @@ Click [here](https://www.ebay.com/itm/114450600499?_trkparms=ispr%3D1&hash=item1
 
 The project contains the following folders
 1. **3D Model:** An STL file which contains a mount that will fit into the space where the origianl meters were placed.
-2. **Images**: Pictures showcasing the final results of the modification.
+2. **Images**: Pictures showcasing the final results of the modification (images might be a bit big to view via GitHub, best to download them)
 
 
 The mains transformer has 3 ouputs. 2 of them are outputting around 30 [Vpp], the last one is at 12[Vpp].
