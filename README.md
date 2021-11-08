@@ -25,3 +25,8 @@ Note:
 3. Zener Voltage Regulators must be placed on the smoothing Capacitors with 30 [Vpp] (as seen in the video).
 4. The Ground tracks going to the output connectors must be cut and the shunt resistor wires need to be placed inbetween this cut (as seen in the video).
 5. The Volt/Current switch will now be inactive, in the furutre I plan to change this to a on/off button for each output.
+
+Here is the final results
+
+<img src="https://github.com/Skitter-JP/Philips_PE1542_Modification/blob/main/Images/Final_result_3_decimals.JPG" width=50% height=50%>
+
