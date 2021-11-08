@@ -20,7 +20,7 @@ The project contains the following folders
 
 Note: 
 1. The holes in the 3D model are designed for M2 screws.
-2. No mechanical changes are required other than removing the origianal meters.
+2. No mechanical changes are required other than removing the original meters.
 3. Zener Voltage Regulators must be placed on the smoothing Capacitors with 30 [Vpp] (as seen in the video).
 4. The Ground tracks going to the output connectors must be cut and the shunt resistor wires need to be placed inbetween this cut (as seen in the video).
 5. The Volt/Current switch will now be inactive, in the furutre I plan to change this to a on/off button for each output.
