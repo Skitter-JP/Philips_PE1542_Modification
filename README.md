@@ -10,14 +10,13 @@ In the video I have used meters with 3 decmials precision but, the sampling rate
 
 Click [here](https://www.ebay.com/itm/114450600499?_trkparms=ispr%3D1&hash=item1aa5c99233:g:H5sAAOSwFT9ffec9&amdata=enc%3AAQAGAAAC0PYe5NmHp%252B2JMhMi7yxGiTJkPrKr5t53CooMSQt2orsSR84A%252FGMxXIqJzFmDq6lDLqUTR3Bl74YVPAzSZgklE7A4E7AafKXuqp5a6Nd8SiAN00fvunW16DeLbMUQN2qul6EoHi%252B%252Bt7qApaOfyBFxUCJLqMMCxBYSup1%252BcuwBOkjAL9nYiLIs0vtt%252B6VI21%252BC%252F37dQEO9wHusG6TuyFzwqdnQUST%252FmsduTEjontwFJ4UM4nT0vx49mEb%252FwYXxf7QZIl1mX9QrMmSryWw1D0w2GRvI70cyYweEGdHCIHEHoBkTrA0rusmiEIuDlfQZGT6%252Fd3PcgBDTEgEjSoK8pHdr6SSF8eAxbLqFHibaLOCjcL220E5c%252FTC%252BcF4s%252BnzK2iYVNSd7OErDWTlBXFqnTSvZEdAstSwEL2f9JVv%252FnyuUQt8%252BjDJUj5P49pzn8gA4xGiGHqdT%252BCCIZbGSF0YA290wjOF3L%252FQpRQ%252Fk4VZHvo81HNkp4UgSKN2S7Vfm%252BcTz3FhSiCmPTuJg1PiPEsNcNr4uTT0wIaoIDLr22haHb9i5UCqDOfzeoon9nIzbMtnSmcO8Ez9X6VtZNR%252BRcqijGwjzu9pfadEb%252BJAhkfA05cXn75IvRsZhekc0Lj11zd3N9Hym3Dnqso8%252FBqTFDcHq234R2pafUbhKoNu1jPdnpbbJdJRz9f3zeeB6TdhhOX17OQjecESP7d6HwRMP7lidA48OqfqC6r2V0s%252BMnmNNdIRn%252B3kS0iwNnV42TNg15es3MJr36bh94%252BHSWFGjc%252F4o%252BGng%252FuxS45IB1H%252B6adGcX2mKAsY50goUns8cHRqd3%252B9arSwqwTh3LWY%252F%252FvCJIYPJ%252B6BE3K%252FO3PAKH1BGZE80LFIwzsV17C%252BswOankD7PvO24uSTfIGnYHf4FqP5Bmaq75B9P3IlHE1jQHSk%252BtWaqsnLRMO1LZqLxUegxWp%252BZxXVysHSOmg%253D%253D%7Cclp%3A2334524%7Ctkp%3ABFBMipq295Zf) to view/purchse the meters on eBay.
 
-The project contains the following folders
-1. **3D Model:** An STL file which contains a mount that will fit into the space where the origianl meters were placed.
-2. **Images**: Pictures showcasing the final results of the modification (images might be a bit big to view via GitHub, best to download them)
-
-
 The mains transformer has 3 ouputs. 2 of them are outputting around 30 [Vpp], the last one is at 12[Vpp].
 
 The maximum operating voltage for the replacment meters are 20 [V], this means that for 2 ouputs with 30[Vpp] some voltage drop is needed. This was acheived by implementing a [Zener Voltage Regulator](https://www.electronics-tutorials.ws/diode/diode_7.html) circuit after the rectifing capacitor on the two outputs.
+
+The project contains the following folders
+1. **3D Model:** An STL file which contains a mount that will fit into the space where the origianl meters were placed.
+2. **Images**: Pictures showcasing the final results of the modification (images might be a bit big to view via GitHub, best to download them)
 
 Note: 
 1. The holes in the 3D model are designed for M2 screws.
