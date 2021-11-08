@@ -27,5 +27,5 @@ Note:
 
 Here is the final result
 
-<img src="https://github.com/Skitter-JP/Philips_PE1542_Modification/blob/main/Images/Final_result_3_decimals.JPG" width=40% height=40%>
+<img src="https://github.com/Skitter-JP/Philips_PE1542_Modification/blob/main/Images/Final_result_2_decimals.JPG" width=40% height=40%>
 
