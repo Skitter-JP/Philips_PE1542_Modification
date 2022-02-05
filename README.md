@@ -18,6 +18,53 @@ The project contains the following folders
 1. **3D Model:** An STL file which contains a mount that will fit into the space where the origianl meters were placed.
 2. **Images**: Pictures showcasing the final results of the modification (images might be a bit big to view via GitHub, best to download them)
 
+
+## 3D Model
+
+The 3D model seen in google sketchup
+
+<img src="/Images/3D_model_Sketchup.JPG" width=55%>
+
+The 3D model seen in a .STL viewer
+
+<img src="/Images/3D_model.JPG" width=55%>
+
+## 3D Print
+
+<img src="/Images/3D_print.JPG" width=55%>
+
+## Test fitting the 3D print to the faceplate
+
+<img src="/Images/3D_print_fitted_to_face_plate.JPG" width=55%>
+
+## Test fitting the 3D print into the enclosure
+
+<img src="/Images/Power_supply_without_meters.JPG" width=55%>
+
+<img src="/Images/Power_supply_without_meters_with_3D_print.JPG" width=55%>
+
+## Fitting Digital Meters to the 3D print
+
+<img src="/Images/Meters_fitted_to_3D_print.JPG" width=55%>
+
+## Zener Regulators
+
+
+<img src="/Images/Zener_regulators.JPG" width=55%>
+
+
+<img src="/Images/" width=55%>
+<img src="/Images/" width=55%>
+<img src="/Images/" width=55%>
+
+
+
+## Final Result
+
+Here the differnce can be seen between the orignal designed and the modified version
+
+<img src="/Images/Final_result_2_decimals.JPG" width=55%>
+
 Note: 
 1. The holes in the 3D model are designed for M2.5 screws.
 2. No mechanical changes are required other than removing the original meters.
@@ -25,7 +72,4 @@ Note:
 4. The Ground tracks going to the output connectors must be cut and the shunt resistor wires need to be placed inbetween this cut (as seen in the video).
 5. The Volt/Current switch will now be inactive, in the future I plan to change this to a on/off button for each output.
 
-Here is the final result
-
-<img src="https://github.com/Skitter-JP/Philips_PE1542_Modification/blob/main/Images/Final_result_2_decimals.JPG" width=40% height=40%>
 
