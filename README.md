@@ -25,10 +25,6 @@ The 3D model seen in Google SketchUp
 
 <img src="/Images/3D_model_Sketchup.JPG" width=55%>
 
-The 3D model seen in a .STL viewer
-
-<img src="/Images/3D_model_1.JPG" width=55%>
-
 ## 3D Print
 
 <img src="/Images/3D_print.JPG" width=55%>
@@ -50,6 +46,15 @@ The 3D model seen in a .STL viewer
 ## The Zener Regulators
 
 <img src="/Images/Zener_regulators.JPG" width=55%>
+
+## Electrical Modifications
+Below the electrical modifications can be seen.
+
+In the red circle you can see that the ground connections have been cut, the red and black wires now provide a new current path to the ground, these wires lead to the shunt resistors in the digital meters.
+
+The blue wires are for the voltage sense.
+
+<img src="/Images/Electric_modifications.JPG" width=55%>
 
 ## Final Result
 
