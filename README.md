@@ -21,7 +21,7 @@ The project contains the following folders
 
 ## 3D Model
 
-The 3D model seen in google SketchUp
+The 3D model seen in Google SketchUp
 
 <img src="/Images/3D_model_Sketchup.JPG" width=55%>
 
