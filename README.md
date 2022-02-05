@@ -27,7 +27,7 @@ The 3D model seen in google sketchup
 
 The 3D model seen in a .STL viewer
 
-<img src="/Images/3D_model.JPG" width=55%>
+<img src="/Images/3D_model_1.JPG" width=55%>
 
 ## 3D Print
 
